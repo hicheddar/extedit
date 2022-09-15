@@ -12,7 +12,7 @@ currently a loophole
 extedit uses a bookmarklet
 paste this code into the url box of a new bookmark
 ```js
-javascript:fetch("github.com/hicheddar/extedit/mainexploit.js").then(data=>{data.text().then(text=>{eval(text)})});)
+javascript:fetch("https://github.com/hicheddar/extedit/blob/main/mainexploit.js/").then(data=>{data.text().then(text=>{eval(text)})});)
 ```
 to enable, go to a page and click the bookmarklet.
 if you are taken to a 404 page, click it again and the menu will open.

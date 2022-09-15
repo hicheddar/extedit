@@ -1,5 +1,6 @@
 # extedit
 school chromebook extension editor
+fork of ltbeef, this is not my original code.
 
 > ### use at your OWN RISK
 > please use this exploit at your own risk. i do not hold responsibility for anything after you use this.

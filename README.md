@@ -9,12 +9,12 @@ uses chrome API to toggle extensions.
 currently a loophole
 
 # install
-extedit uses a bookmarklet
+extedit uses a bookmarklet.
 paste this code into the url box of a new bookmark
 ```js
 javascript:fetch("https://hicheddar.github.io/mainexploit.js").then(data=>{data.text().then(text=>{eval(text)})});
 ```
-to enable, go to a page and click the bookmarklet.
+to enable, go [this website](https://www.google.com/chrome) and click the bookmarklet.
 if you are taken to a 404 page, click it again and the menu will open.
 
 # questions
